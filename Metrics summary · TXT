@@ -1,0 +1,16 @@
+Dataset size: 255 samples, 18 features
+Class balance: {'B': np.int64(152), 'M': np.int64(103)}
+
+Logistic Regression:
+  Accuracy:  0.941
+  Precision: 0.950
+  Recall:    0.905
+  F1 score:  0.927
+  ROC-AUC:   0.997
+
+Random Forest:
+  Accuracy:  0.961
+  Precision: 0.952
+  Recall:    0.952
+  F1 score:  0.952
+  ROC-AUC:   0.994
